@@ -74,4 +74,4 @@ This repository contains a Machine Learning project for predicting **used car pr
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Maxwell-Selassie/car-price-prediction-model.git
-   cd car-price-prediction
+   cd car-price-prediction-model
