@@ -7,7 +7,9 @@ This repository contains a Machine Learning project for predicting **used car pr
 ## 📂 Project Structure  
 
 ├── data/  Dataset 
+
 ├── notebooks/ Jupyter notebook with EDA, preprocessing, and modeling
+
 └── README.md  Project documentation
 
 
