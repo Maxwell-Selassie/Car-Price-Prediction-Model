@@ -1,4 +1,14 @@
 {
+    "xgb_regressor": {
+        "best_score": -0.0533903653942996,
+        "best_params": {
+            "classifier__learning_rate": 0.08,
+            "classifier__max_depth": 6,
+            "classifier__min_samples_split": 3,
+            "classifier__n_estimators": 120,
+            "classifier__reg_lambda": 0.4
+        }
+    },
     "Linear_regression": {
         "best_score": -0.09167350107832918,
         "best_params": {
@@ -30,21 +40,10 @@
         }
     },
     "random_forest": {
-        "best_score": -0.054925647559384935,
+        "best_score": -0.05492564755938495,
         "best_params": {
             "classifier__max_depth": null,
             "classifier__min_samples_split": 8,
-            "preprocessor__num__poly__degree": 1
-        }
-    },
-    "xgb_regressor": {
-        "best_score": -0.05110972378447737,
-        "best_params": {
-            "classifier__colsample_bytree": 0.6,
-            "classifier__learning_rate": 0.1,
-            "classifier__max_depth": 8,
-            "classifier__n_estimators": 100,
-            "classifier__subsample": 0.8,
             "preprocessor__num__poly__degree": 1
         }
     }
